@@ -1,0 +1,31 @@
+[0.010s] Invoking command in '/home/victor/entregabo_ws/build/entregabo_one': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/victor/entregabo_ws/build/entregabo_one -- -j8 -l8
+[0.043s] Invoked command in '/home/victor/entregabo_ws/build/entregabo_one' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --build /home/victor/entregabo_ws/build/entregabo_one -- -j8 -l8
+[0.071s] Invoking command in '/home/victor/entregabo_ws/build/entregabo_one': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/victor/entregabo_ws/build/entregabo_one
+[0.077s] -- Install configuration: ""
+[0.077s] -- Execute custom install script
+[0.077s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/config/empty.yaml
+[0.078s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/config/mapper_params_online_async.yaml
+[0.078s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/config/view_entregabo.rviz
+[0.078s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/description/gazebo_control.xacro
+[0.078s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/description/inertial_macros.xacro
+[0.078s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/description/robot.urdf.xacro
+[0.078s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/description/robot_core.xacro
+[0.078s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/launch/launch_sim.launch.py
+[0.078s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/launch/rsp.launch.py
+[0.079s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/worlds/empty.world
+[0.079s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/ament_index/resource_index/package_run_dependencies/entregabo_one
+[0.079s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/ament_index/resource_index/parent_prefix_path/entregabo_one
+[0.079s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/environment/ament_prefix_path.sh
+[0.080s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/environment/ament_prefix_path.dsv
+[0.080s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/environment/path.sh
+[0.080s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/environment/path.dsv
+[0.080s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/local_setup.bash
+[0.080s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/local_setup.sh
+[0.080s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/local_setup.zsh
+[0.080s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/local_setup.dsv
+[0.081s] -- Symlinking: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/package.dsv
+[0.088s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/ament_index/resource_index/packages/entregabo_one
+[0.089s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/cmake/entregabo_oneConfig.cmake
+[0.089s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/cmake/entregabo_oneConfig-version.cmake
+[0.089s] -- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/package.xml
+[0.091s] Invoked command in '/home/victor/entregabo_ws/build/entregabo_one' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/opt/ros/humble /usr/bin/cmake --install /home/victor/entregabo_ws/build/entregabo_one

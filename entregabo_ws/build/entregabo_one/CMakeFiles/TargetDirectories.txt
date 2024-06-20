@@ -1,0 +1,9 @@
+/home/victor/entregabo_ws/build/entregabo_one/CMakeFiles/uninstall.dir
+/home/victor/entregabo_ws/build/entregabo_one/CMakeFiles/entregabo_one_uninstall.dir
+/home/victor/entregabo_ws/build/entregabo_one/CMakeFiles/test.dir
+/home/victor/entregabo_ws/build/entregabo_one/CMakeFiles/edit_cache.dir
+/home/victor/entregabo_ws/build/entregabo_one/CMakeFiles/rebuild_cache.dir
+/home/victor/entregabo_ws/build/entregabo_one/CMakeFiles/list_install_components.dir
+/home/victor/entregabo_ws/build/entregabo_one/CMakeFiles/install.dir
+/home/victor/entregabo_ws/build/entregabo_one/CMakeFiles/install/local.dir
+/home/victor/entregabo_ws/build/entregabo_one/CMakeFiles/install/strip.dir

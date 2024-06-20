@@ -1,0 +1,23 @@
+[0.007s] Invoking command in '/home/victor/entregabo_ws/build/entregabo_one': /usr/bin/cmake /home/victor/entregabo_ws/src/entregabo_one -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/victor/entregabo_ws/install/entregabo_one
+[0.016s] -- Found ament_cmake: 1.3.0 (/usr/share/ament_cmake/cmake)
+[0.128s] -- Override CMake install command with custom implementation using symlinks instead of copying resources
+[0.142s] [31mCMake Error at CMakeLists.txt:25 (find_package):
+[0.142s]   By not providing "Findament_lint_auto.cmake" in CMAKE_MODULE_PATH this
+[0.142s]   project has asked CMake to find a package configuration file provided by
+[0.142s]   "ament_lint_auto", but CMake did not find one.
+[0.142s] 
+[0.142s]   Could not find a package configuration file provided by "ament_lint_auto"
+[0.142s]   with any of the following names:
+[0.142s] 
+[0.142s]     ament_lint_autoConfig.cmake
+[0.142s]     ament_lint_auto-config.cmake
+[0.142s] 
+[0.142s]   Add the installation prefix of "ament_lint_auto" to CMAKE_PREFIX_PATH or
+[0.142s]   set "ament_lint_auto_DIR" to a directory containing one of the above files.
+[0.142s]   If "ament_lint_auto" provides a separate development package or SDK, be
+[0.142s]   sure it has been installed.
+[0.142s] 
+[0.143s] [0m
+[0.143s] -- Configuring incomplete, errors occurred!
+[0.143s] See also "/home/victor/entregabo_ws/build/entregabo_one/CMakeFiles/CMakeOutput.log".
+[0.144s] Invoked command in '/home/victor/entregabo_ws/build/entregabo_one' returned '1': /usr/bin/cmake /home/victor/entregabo_ws/src/entregabo_one -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/victor/entregabo_ws/install/entregabo_one

@@ -1,0 +1,26 @@
+-- Install configuration: ""
+-- Execute custom install script
+-- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/config/empty.yaml
+-- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/config/mapper_params_online_async.yaml
+-- Symlinking: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/config/view_entregabo.rviz
+-- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/description/inertial_macros.xacro
+-- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/description/robot.urdf.xacro
+-- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/description/robot_core.xacro
+-- Symlinking: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/launch/launch_sim.launch.py
+-- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/launch/rsp.launch.py
+-- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/worlds/empty.world
+-- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/ament_index/resource_index/package_run_dependencies/entregabo_one
+-- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/ament_index/resource_index/parent_prefix_path/entregabo_one
+-- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/environment/ament_prefix_path.sh
+-- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/environment/ament_prefix_path.dsv
+-- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/environment/path.sh
+-- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/environment/path.dsv
+-- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/local_setup.bash
+-- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/local_setup.sh
+-- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/local_setup.zsh
+-- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/local_setup.dsv
+-- Symlinking: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/package.dsv
+-- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/ament_index/resource_index/packages/entregabo_one
+-- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/cmake/entregabo_oneConfig.cmake
+-- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/cmake/entregabo_oneConfig-version.cmake
+-- Up-to-date symlink: /home/victor/entregabo_ws/install/entregabo_one/share/entregabo_one/package.xml

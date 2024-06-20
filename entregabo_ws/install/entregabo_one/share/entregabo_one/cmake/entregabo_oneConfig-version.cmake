@@ -1,0 +1,1 @@
+/home/victor/entregabo_ws/build/entregabo_one/ament_cmake_core/entregabo_oneConfig-version.cmake

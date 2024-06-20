@@ -1,0 +1,2 @@
+Invoking command in '/home/victor/entregabo_ws/build/entregabo_one': /usr/bin/cmake /home/victor/entregabo_ws/src/entregabo_one -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/victor/entregabo_ws/install/entregabo_one
+Invoked command in '/home/victor/entregabo_ws/build/entregabo_one' returned '1': /usr/bin/cmake /home/victor/entregabo_ws/src/entregabo_one -DAMENT_CMAKE_SYMLINK_INSTALL=1 -DCMAKE_INSTALL_PREFIX=/home/victor/entregabo_ws/install/entregabo_one
